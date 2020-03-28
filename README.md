@@ -4,11 +4,11 @@ semana omini stack
 comandos importantes;
 
 git 
-git add repositorio/ or git add arquivo.*
-git remote add master url
-git push -u master master 
+<b>git add</b> repositorio/ or git add arquivo.*
+<b>git remote add</b> master url
+<b>git push -u</b> master master 
 
-npm start 
-para iniciar a aplicação.
-ja esta com nodemon então qualquer alteração salva.
+<b>npm start</b>
+<br>isso para iniciar a aplicação.
+<br>ja esta com nodemon então qualquer alteração salva.
 
