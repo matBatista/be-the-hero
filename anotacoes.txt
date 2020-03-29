@@ -1,0 +1,17 @@
+npm create react app
+
+limpar a estrutura;
+
+deixar só o 
+App.js
+index.js
+gitignore 
+package.json
+package-lock.json
+
+	
+    "emmet.syntaxProfiles": {"javascript" :"jsx"},
+    "emmet.includeLanguages": {"javascript" :"javascriptreact"},
+
+npm install react-icons //trás todos os icons disponivels fi/fa/etc
+npm install react-router-dom //pacote responsavel pelas rotas;
